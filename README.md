@@ -52,7 +52,7 @@ Dashboard Components
 
 4. Slicer – Interactive filter by Region
 
-
+---
 
 Visual Features
 
@@ -60,7 +60,7 @@ Top-performing areas highlighted with vibrant colors
 
 Time axis formatted as Month-Year
 
-
+---
 
 
 Key Insights
